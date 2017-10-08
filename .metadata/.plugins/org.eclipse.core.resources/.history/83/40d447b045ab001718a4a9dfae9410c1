@@ -1,0 +1,5 @@
+package com.student.startup.controller;
+
+public class StudentController {
+
+}
